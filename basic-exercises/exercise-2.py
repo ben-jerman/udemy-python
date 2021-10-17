@@ -1,5 +1,5 @@
 # exercise-2.py
-# Python Lists and Dicctionaries
+# Python Lists and Dictionaries
 #
 # Author: Benjamin Jerman
 # Date: 2021-10-14
